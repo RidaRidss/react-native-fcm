@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_notif.png",
+        "source": "/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/src/main/res/mipmap-hdpi/ic_notif.png"
+    }
+]

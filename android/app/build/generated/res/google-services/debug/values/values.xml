@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">576783411620-8ovmecjat51lnmg7lmu931jh25mfeva3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://groov-176213.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">576783411620</string>
+    <string name="google_api_key" translatable="false">AIzaSyDfhwQARxWGMJbUkS1SgEtZwPkINNPECwc</string>
+    <string name="google_app_id" translatable="false">1:576783411620:android:9e1724b4ff2cdf32</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDfhwQARxWGMJbUkS1SgEtZwPkINNPECwc</string>
+    <string name="google_storage_bucket" translatable="false">groov-176213.appspot.com</string>
+</resources>

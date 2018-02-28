@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_9030e50fb92be7b2ce4f80b9e5e2d052b4a2b76d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_429938f28b3f1d9099b91e4df5ad94b8aae835a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_212987fa71d09e21726af8757bda9bcb8fb138da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_2e7581b09410c1b00384ab41c85cf9a648a3a359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_75b9a9cb09050cbcbb70331d781bf444087e9882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_450f91d0d0106204522710ebd807310d721e7c87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/SimpleFcmClient/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4abed3bc058e231d00f383b7d2d1e1a0842a1cc1">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/SimpleFcmClient-react-native-fcm-unspecified_b1b898e08b86cf69ca8df65f161211fe4de1ec46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_f2e235f6b328cd5659db9a73b2c55f323dc700d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_d9220638187aa6f4aaab876e49b788a7a244851f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_c2918b6304d56e8aae0deee2ad4b780a125df0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_787955c1d521d6bec93b2c84a627e24dde9d9b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_7b533794038c2ae3346a9b9fad9eb0fd55e9b4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6d07dd3c0b625adb54d890765c56cdad1091fad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_38f83ce0475e9133aeab9fb11c846fc71c2885a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_8f370671d6728fbe40ef4a457f6fef593701556e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4e15266b7915cef1cc9b9f742ed2f34e2ee689ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_6a811eb512ffa7341cbeb1bc7d421d745f7f2029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d97213c27baec6bd9655b5b0cb893bd89264489f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_71e762c6dee550b04efb3854c139064a9df71bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e76390f19a7b83de853cd7f6095eba502e9dbdca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_156b591bc1707a19b0a4f422541ae8e7c201bd33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_efe61cd6cfaeeeeb4606d854b6661ce0f7623803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_825c1db5c8887fc5dec84ec29503757a874b8b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_eb45a85ef0a2e720bd223ed74320e89bac449537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_8b2f95dffdb9c0aa8487b397735c76f154877d1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e3b5416deca06e59bb202dc7bdabddc7b8a3514d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_96c1fc325a58c4d246536f3e2fca02aea2406556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_093308733097748e0cf07aea68f0ed62c7f0e5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_ad1f6929429b446f35039a809b3a46837fdd3a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b742701dfc8e30c9f174fa9009d8dfbe389d38b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_6f5d418b04755ca04c148790ce8f77554e2baa6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_fadc1ab03a6adf27fe0aa98e6ccc5f80eea7aef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0e23e6585c31c356e7f5acd6024f5c9a1d0bf3ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/syedzainali/Desktop/react-native-fcm-master/Examples/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_a54c9b25c5a9786d6625921e2fd7818d33a0dfc3.jar" />
+    </item>
+
+</items>

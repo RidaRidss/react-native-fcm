@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "576783411620",
+    "firebase_url": "https://groov-176213.firebaseio.com",
+    "project_id": "groov-176213",
+    "storage_bucket": "groov-176213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576783411620:android:9e1724b4ff2cdf32",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id":
+            "576783411620-8ovmecjat51lnmg7lmu931jh25mfeva3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfhwQARxWGMJbUkS1SgEtZwPkINNPECwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
